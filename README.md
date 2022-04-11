@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amaury Romo</h1>
 <h3 align="center">A passionate student and software developer</h3>
+<p>Resourceful and dedicated Computational systems engineering 
+student in Autonomous University of Aguascalientes, Mexico. 
+Computer enthusiast, passionate about technology and motivated by 
+the desire to continue learning and learning new technologies and 
+implement them in projects that solve a problem. Trying to grow 
+professionally in this area</p>
 
 - 🌱 I’m currently learning **React, and networking**
 
